@@ -6,12 +6,14 @@
     "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
     "bookingTime": "2019-12-12 18:41:23",
     "source": "dlf",
-    "destination": "mehdipatnam"},
+    "destination": "mehdipatnam"
+    },
    {
      "id":2,
      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
      "bookingTime": "2019-12-12 18:41:23",
      "source": "dlf",
-     "destination": "mehdipatnam"}
+     "destination": "mehdipatnam"
+   }
   ]
 }
